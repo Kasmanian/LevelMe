@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# LevelMe User Data
+Profiles/
+levelme.dat
